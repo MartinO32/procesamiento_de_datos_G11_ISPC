@@ -6,17 +6,17 @@ Objetivo del proyecto: El objetivo de este proyecto es aplicar los conceptos est
 
 Descripción del proyecto: El proyecto consiste en desarrollar un procesamiento de datos que incluya las siguientes etapas:
 
-Recolección y preparación de datos: Obtener o recolectar conjuntos de datos relevantes para el tema elegido. Realizar las tareas de limpieza, integración y transformación necesarias para preparar los datos para el análisis.
+ - Recolección y preparación de datos: Obtener o recolectar conjuntos de datos relevantes para el tema elegido. Realizar las tareas de limpieza, integración y transformación necesarias para preparar los datos para el análisis.
 
-Análisis exploratorio de datos: Aplicar técnicas de análisis exploratorio para comprender y explorar los datos en profundidad. Esto puede incluir la identificación de patrones, relaciones, valores atípicos y distribuciones de variables.
+ - Análisis exploratorio de datos: Aplicar técnicas de análisis exploratorio para comprender y explorar los datos en profundidad. Esto puede incluir la identificación de patrones, relaciones, valores atípicos y distribuciones de variables.
 
-Procesamiento y análisis de datos: Aplicar técnicas de procesamiento de datos para realizar tareas como filtrado, agregación, transformación y cálculo de métricas relevantes para el tema elegido. Utilizar herramientas de software y lenguajes de programación adecuados para llevar a cabo estas tareas.
+ - Procesamiento y análisis de datos: Aplicar técnicas de procesamiento de datos para realizar tareas como filtrado, agregación, transformación y cálculo de métricas relevantes para el tema elegido. Utilizar herramientas de software y lenguajes de programación adecuados para llevar a cabo estas tareas.
 
-Visualización de datos: Utilizar técnicas y herramientas de visualización de datos para representar gráficamente la información obtenida. Se deben explorar diferentes técnicas de visualización, como gráficos de barras, gráficos de dispersión, diagramas de caja, mapas, entre otros. Además, aplicar técnicas de visualización de múltiples variables para identificar relaciones y patrones complejos en los datos.
+ - Visualización de datos: Utilizar técnicas y herramientas de visualización de datos para representar gráficamente la información obtenida. Se deben explorar diferentes técnicas de visualización, como gráficos de barras, gráficos de dispersión, diagramas de caja, mapas, entre otros. Además, aplicar técnicas de visualización de múltiples variables para identificar relaciones y patrones complejos en los datos.
 
-Comunicación efectiva de resultados: Generar reportes que presenten de manera clara y concisa los resultados obtenidos durante el procesamiento y análisis de datos.
+ - Comunicación efectiva de resultados: Generar reportes que presenten de manera clara y concisa los resultados obtenidos durante el procesamiento y análisis de datos.
 
-Requisitos del proyecto:
+### Requisitos del proyecto:
 
 Grupos: Formar grupos de no más de 7 miembros.
 
@@ -26,17 +26,17 @@ Estructura del repositorio: El repositorio debe seguir una estructura organizada
 
 Criterios de validación:
 
-Uso: El proyecto debe ser funcional y el archivo README del repositorio debe incluir las indicaciones necesarias para ponerlo en marcha.
+ - Uso: El proyecto debe ser funcional y el archivo README del repositorio debe incluir las indicaciones necesarias para ponerlo en marcha.
 
-Implementación: Cada miembro del grupo debe realizar al menos un pull request al repositorio. El repositorio debe mantenerse limpio, incluyendo solo los archivos necesarios para un eventual despliegue en la rama principal (main).
+ - Implementación: Cada miembro del grupo debe realizar al menos un pull request al repositorio. El repositorio debe mantenerse limpio, incluyendo solo los archivos necesarios para un eventual despliegue en la rama principal (main).
 
-Información: El archivo README debe contener información completa sobre los miembros del grupo, el objetivo del proyecto, una breve descripción y las instrucciones para ponerlo en marcha. Además, se deben indicar los problemas o dificultades encontradas durante el desarrollo y sus soluciones.
+ - Información: El archivo README debe contener información completa sobre los miembros del grupo, el objetivo del proyecto, una breve descripción y las instrucciones para ponerlo en marcha. Además, se deben indicar los problemas o dificultades encontradas durante el desarrollo y sus soluciones.
 
-Visualización de datos: El proyecto debe incluir técnicas de visualización de datos apropiadas, que permitan transmitir de manera efectiva la información y los resultados obtenidos.
+ - Visualización de datos: El proyecto debe incluir técnicas de visualización de datos apropiadas, que permitan transmitir de manera efectiva la información y los resultados obtenidos.
 
-Generación de reportes: Se debe generar al menos un reporte que presente los resultados de manera clara y siguiendo buenas prácticas de generación de reportes.
+ - Generación de reportes: Se debe generar al menos un reporte que presente los resultados de manera clara y siguiendo buenas prácticas de generación de reportes.
 
 
-Fecha de presentación: 26/06/2023 - 29/06/2023 20:00 Hs
+# Fecha de presentación: 26/06/2023 - 29/06/2023 20:00 Hs
 
-Exposición:  30/06/2023
+# Exposición:  30/06/2023
