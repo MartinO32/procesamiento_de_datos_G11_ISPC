@@ -1,8 +1,6 @@
 # Consigna para proyecto de finalización: Procesamiento de Datos
 
-### Consigna para proyecto de finalización: Procesamiento de Datos
-
-Aplicación de técnicas de procesamiento de datos en una temática relacionada
+## Aplicación de técnicas de procesamiento de datos en una temática relacionada
 
 Objetivo del proyecto: El objetivo de este proyecto es aplicar los conceptos estudiados en el espacio curricular de "Procesamiento de Datos" para realizar el procesamiento y análisis de datos. Los miembros del grupo tendrán la libertad de elegir el tema y los datos de interés sobre los cuales trabajar.
 
