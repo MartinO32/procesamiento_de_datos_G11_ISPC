@@ -1,7 +1,7 @@
 # Exploración de la Calidad de Vino
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://eststatic.com/2352/conversions/tipos-de-vino-default.jpg)
 ### **Integrantes:**
-* Andres Chaile
+* Andrés Chaile
 * Gustavo Godoy
 * Martín Oller
 * Diego Ormeño
