@@ -1,13 +1,40 @@
+![banner_TCDIA](/image/TCDIA.png)
+
+# **Proyecto de Finalización**
+
+### **Carrera:** Tecnicatura en Ciencias de Datos e Inteligencia Artificial
+<br>
+
+### **Materia:** Procesamiento de datos
+<br>
+
+### **Profesor:** Moisés Tinte
+<br>
+
+### **Cohorte:** 2022
+<br>
+
+### **Grupo N°:** 11
+<br>
+
+### **Integrantes:**
+- ### **Aula 1**
+    * Diego Ormeño
+    * Romina Ulerich
+- ### **Aula 2**
+    * Andrés Chaile 
+    * Gustavo Godoy
+    * Martín Oller
+    * Adrian Sequeira
+    * Claudia Yon
+<br>
+
+### **Año lectivo:** 2023
+<br>
+
+
 # Exploración de la Calidad de Vino
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://eststatic.com/2352/conversions/tipos-de-vino-default.jpg)
-### **Integrantes:**
-* Andrés Chaile
-* Gustavo Godoy
-* Martín Oller
-* Diego Ormeño
-* Adrian Sequeira
-* Romina Ulerich
-* Claudia Yon
 
 ### **Objetivo del Proyecto**
 El objetivo de este proyecto fue de realizar un analisis exhaustivo de un conjunto de datos de vinos, utilizando Python como programa y acompañado con algunas bibliotecas para facilitarnos la visualizacion y poder identificar patrones, tendencias y relaciones significativas para llegar a comprender mejor los factores que influyen la **calidad** del vino.
@@ -40,3 +67,7 @@ pip install seaborn
 ### Estructura del Proyecto
 - `proyectofinal.ipynb`: Es la notebook que contiene el código y el análisis del proyecto.
 - `data/`: Esta carpeta contiene los archivos csv del dataset que fueron utilizado en el proyecto.
+
+<br>
+
+![banner_final](/image/ISPC_zocalo_final.png)
